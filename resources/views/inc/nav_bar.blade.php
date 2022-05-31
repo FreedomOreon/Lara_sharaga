@@ -7,9 +7,9 @@
 </li>
 
 <li class="nav-item">
-    <a class="nav-link" href="/tovar">{{ __('Товар') }}</a>
+    <a class="nav-link" href="/corzina">{{ __('Корзина') }}</a>
 </li>
 
 <li class="nav-item">
-    <a class="nav-link" href="/gde nas naiti">{{ __('Где нас найти ?') }}</a>
+    <a class="nav-link" href="/gdenasnaiti">{{ __('Где нас найти ?') }}</a>
     </li>

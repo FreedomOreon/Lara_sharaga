@@ -32,12 +32,13 @@ Route::get('/aboutUs', function () {
 Route::get('/catalog', function () {
     return view('catalog');
 });
-Route::get('/tovar', function () {
-    return view('tovar');
+Route::get('/corzina', function () {
+    return view('corzina');
 });
-Route::get('/gde nas naiti', function () {
-    return view('gde nas naiti');
+Route::get('/gdenasnaiti', function () {
+    return view('gdenasnaiti');
 });
+
 
 Auth::routes();
 
